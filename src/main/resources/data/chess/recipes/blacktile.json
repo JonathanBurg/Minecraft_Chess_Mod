@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredients":
+        {
+            "item": "minecraft:basalt"
+        },
+    "result": "chess:black_board_piece",
+    "count": "4"
+    }

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "chess:block/white_knight"
+    }
+  }
+}

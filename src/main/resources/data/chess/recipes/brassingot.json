@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "chess:raw_brass"
+  },
+  "result": "chess:brassingot",
+  "experience": 0.0,
+  "cookingtime": 200
+}
