@@ -71,7 +71,7 @@ public class Registration {
     }
 
     private static <T extends Block> void registerBlockItem(String name, RegistryObject<T> block) {
-        ITEMS.register(name+"_item", () -> new BlockItem(block.get(),
+        ITEMS.register(name, () -> new BlockItem(block.get(),
                 new Item.Properties().tab(ITEM_GROUP)));
     }
 

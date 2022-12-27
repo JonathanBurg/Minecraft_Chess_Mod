@@ -1,11 +1,11 @@
 {
-  "type": "minecraft:block",
+  "type": "chess:block",
   "pools": [
     {
       "rolls": 1,
       "entries": [
         {
-          "type": "minecraft:item",
+          "type": "chess:item",
           "name": "chess:black_tile_piece"
         }
       ]
